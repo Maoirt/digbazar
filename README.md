@@ -7,7 +7,7 @@ Digbazar - платформа электронной коммерции, пре�
 3. Основной сервис - создание страницы креаторов, загрузка продуктов, отображение авторов, поиск и т.д
 
 Стэк технологий:
-Java, Spring Data, Spring AMQP, Spring Rest, Spring Boot, Spring Eureka, API (Яндекс, ГосУслуги, Сбер) для регистрации и принятие платежей, PostgreSQL (Liquibase), Grafana, Loki, Docker, SwaggerUI, RabbitMQ, Hibernate, Jackson
+Java, Spring Data, Spring AMQP, Spring Rest, Spring Boot, Spring Eureka, API (Яндекс, ГосУслуги, Сбер) для регистрации и принятие платежей, PostgreSQL, Grafana, Loki, Docker, SwaggerUI, RabbitMQ, Hibernate (Liquibase), Jackson
 
 Roadmap.
 v1:
