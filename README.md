@@ -11,7 +11,6 @@ Java, Spring Data, Spring AMQP, Spring Rest, Spring Boot, Spring Eureka, API (Я
 JavaScript, React + ...
 
 Roadmap.
-<br>
 v1:
 - реализация регистрации и входа
   - Авторизация через яндекс, госуслуги, обычная
