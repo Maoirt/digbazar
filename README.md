@@ -8,12 +8,16 @@
 
 Стэк технологий:
 Java, Spring Data, Spring AMQP, Spring Rest, Spring Boot, Spring Eureka, API (Яндекс, ГосУслуги, Сбер) для регистрации и принятие платежей, PostgreSQL, Grafana, Loki, Docker, SwaggerUI, RabbitMQ, Hibernate (Liquibase), Jackson
+JavaScript, React + ...
 
 Roadmap.
 
 v1:
 - реализация регистрации и входа
-- фундамент сервиса уведомлений (подтвеждение почты)
+  - Авторизация через яндекс, госуслуги, обычная
+  - Отправка подтверждение почты (создание сервиса уведомлений)
+  - Реализация таблиц в БД
+  - Создание UI в React
 - связь frontend, backend, bd
 
 v1.1:
