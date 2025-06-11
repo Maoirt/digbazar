@@ -7,7 +7,7 @@
 3. Основной сервис - создание страницы креаторов, загрузка продуктов, отображение авторов, поиск и т.д
 
 Стэк технологий:
-Java, Spring Data, Spring AMQP, Spring Rest, Spring Boot, Spring Eureka, API (Яндекс, ГосУслуги, Сбер) для регистрации и принятие платежей, PostgreSQL, Grafana, Loki, Docker, SwaggerUI, RabbitMQ, Hibernate (Liquibase), Jackson, JUnit
+Java, Spring Data, Spring AMQP, Spring Rest, Spring Boot, Spring Eureka, PostgreSQL, Grafana, Loki, Docker, SwaggerUI, RabbitMQ, Hibernate (Liquibase), Jackson, JUnit
 JavaScript, React + ...
 
 Roadmap.
@@ -28,7 +28,7 @@ v1.1:
 - загрузка продуктов, создание страницы продуктов
 - покупка продуктов, подключение платежный систем
   - Реализовтаь баланс у пользователей и авторов: пополнение и снятие
-  - Подключение СПБ
+  - Подключение платежной системы
 - закончить сервис уведомлений
   - Отправка писем при покупке, выставлении продукта и т.д
 - Создание тестов с помощью JUnit
